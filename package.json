@@ -1,0 +1,11 @@
+{
+  "name": "vivalatv",
+  "version": "1.0.0",
+  "description": "video streaming web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janat and Marat",
+  "license": "ISC"
+}
